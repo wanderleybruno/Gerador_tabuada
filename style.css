@@ -1,0 +1,70 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+section h1 {
+    color: rgb(18, 15, 197);
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 40px;
+    margin-bottom: 30px;
+    width: 50%;
+    height: 40px;
+    margin-left:25%;
+}
+
+section {
+    margin: auto;
+    width: 600px;
+    height: 400px;
+    background-color: rgba(110, 105, 105, 0.979);
+    border-radius: 30px;
+    box-shadow: 1px 1px 3px black;
+}
+
+p {
+    text-align: center;
+    padding: 30px;
+    font-size: 1.5em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+input {
+    width: 100px;
+    height:50px ;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+button {
+    display: block;
+    margin: auto;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 1.5em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button:hover {
+    background-color: chocolate;
+}
+
+
+
+#tabuada-item {
+    background-color: rgba(62, 241, 7, 0.459);
+    text-align: center;
+    margin-top: 50px;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 3px black; 
+}
+
+h2#tabuada {
+    margin-top: 100px;
+}
+
