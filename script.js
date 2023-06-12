@@ -13,6 +13,7 @@ function gerarTabuada() {
       linhaTabuada.classList.add("tabuada-item");
       linhaTabuada.style.backgroundColor = "green";
       linhaTabuada.style.marginTop = "5px";
+      linhaTabuada.style.fontSize = "1.8em"
       linhaTabuada.style.textAlign = "center"
       linhaTabuada.style.width = "auto"
       
